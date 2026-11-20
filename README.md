@@ -11,7 +11,7 @@ I'm passionate about building beautiful, functional, and scalable mobile applica
 ### 📬 Connect With Me
 
 - **Email:** [natan.asnake12@gmail.com](mailto:natan.asnake12@gmail.com)
-- **GitHub:** [Explore my repositories](https://github.com/YOUR_USERNAME)
+- **GitHub:** [Explore my repositories](https://github.com/Nathan91187?tab=repositories)
 
 ## 🛠️ Tech Stack
 
