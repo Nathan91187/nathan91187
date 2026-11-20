@@ -1,3 +1,18 @@
+## 👋 Hi, I'm a Flutter Developer
+
+I'm passionate about building beautiful, functional, and scalable mobile applications using **Flutter and Dart**.
+
+- 📱 Focused on cross-platform mobile development with Flutter.
+- 🏗️ Experienced with state management using BLoC and Provider.
+- 🎨 Interested in clean architecture, maintainable code, and great user experiences.
+- ⚙️ Experienced in backend development with Java and Spring Boot.
+- 🗄️ Working with PostgreSQL, MySQL, and Firebase.
+- 🚀 Currently exploring Docker and application deployment.
+
+### 📬 Connect With Me
+
+- **Email:** [natan.asnake12@gmail.com](mailto:natan.asnake12@gmail.com)
+- **GitHub:** [Explore my repositories](https://github.com/YOUR_USERNAME)
 
 ## 🛠️ Tech Stack
 
