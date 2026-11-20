@@ -5,9 +5,8 @@ I'm passionate about building beautiful, functional, and scalable mobile applica
 - 📱 Focused on cross-platform mobile development with Flutter.
 - 🏗️ Experienced with state management using BLoC and Provider.
 - 🎨 Interested in clean architecture, maintainable code, and great user experiences.
-- ⚙️ Experienced in backend development with Java and Spring Boot.
+- ⚙️ Good experience in backend development with Java and Spring Boot.
 - 🗄️ Working with PostgreSQL, MySQL, and Firebase.
-- 🚀 Currently exploring Docker and application deployment.
 
 ### 📬 Connect With Me
 
