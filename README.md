@@ -1,4 +1,4 @@
-## 👋 Hi, I'm a Mobile App Developer
+## 👋 Hi I'm Nathan, a Mobile App Developer
 
 I'm passionate about building beautiful, functional, and scalable mobile applications using **Flutter and Dart**.
 
